@@ -1,4 +1,5 @@
 🏎️ Projet F1 – Véhicule autonome avec Raspberry Pi
+
 📌 Présentation
 Ce projet consiste en la conception et la réalisation d’une voiture type Formule 1 automatisée, entièrement contrôlée par un Raspberry Pi 4 et un ensemble de capteurs et modules électroniques.
 L’objectif est de développer un véhicule capable de suivre une trajectoire, d’adapter sa vitesse et de réagir à son environnement en temps réel, grâce à un système embarqué optimisé.
